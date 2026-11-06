@@ -100,9 +100,9 @@ Current saved performance:
 - `MAE = 19.6332`
 - `RMSE = 28.8320`
 
-Interpretation:
+<!-- Interpretation:
 - the model explains about 81.86% of the variance in `PM2.5`
-- prediction error remains measurable, so it should be used as a decision-support model, not as a perfect replacement for sensors
+- prediction error remains measurable, so it should be used as a decision-support model, not as a perfect replacement for sensors -->
 
 ## Repository Structure
 
